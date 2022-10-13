@@ -5,6 +5,6 @@ Afin d’atténuer les biais de genre dans les systèmes de reconnaissance facia
 
 Jean-Rémy Conti, un des co-auteurs du papier de recherche qui vient d’être accepté à ICML, vous propose de découvrir cette méthodologie.
 
-Lien vers la Vidéo Youtube : https://youtu.be/DNhSIA23jvg
+Lien vers la Vidéo Youtube : https://youtu.be/pDd28bAiX4Y
 
 Lien vers le workshop : https://datacraft.paris/workshops/mindshake-time-attenuation-des-biais-de-genre-application-a-la-reconnaissance-faciale/
